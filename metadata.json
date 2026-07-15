@@ -1,0 +1,6 @@
+{
+  "name": "Digital Forensics Presentation",
+  "description": "Digital Forensics Seminar Presentation: Uncovering Digital Evidence in the Modern World. A premium, modern, cybersecurity-themed presentation designed for a 10-12 minute seminar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
